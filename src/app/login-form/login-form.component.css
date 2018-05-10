@@ -1,0 +1,17 @@
+.container{
+  width: 50%;
+  height: 30%;
+  margin-left: 15%;
+  margin-top: 10%;
+  padding: 5%;
+  padding-left: 10%;
+  background-color: white;
+}
+
+.container button{
+  width: 80%;
+}
+
+.container mat-form-field{
+  width: 80%;
+}

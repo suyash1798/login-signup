@@ -1,0 +1,28 @@
+.container{
+  margin-top: 10%;
+  margin-left: 35%;
+  height: 1000px;
+  width: 100%;
+}
+
+mat-card{
+  hieght: 800px;
+  width: 30%;
+  padding: 20px;
+}
+button{
+
+  margin:5px;
+  padding: 5px;
+  align-items: center;
+  alignment: center;
+  align-self: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+a{
+  margin-top: 40px;
+  width: 100%;
+  padding-left: 130px;
+}
+
